@@ -22,6 +22,7 @@ public class MisMatematicas2
 		return result;
 	}
 	
+	
 	public static double suma2(double a, double b){
 		double result = a+b
 		log.info("Returning" +a+ "+" +b+"=" result);
