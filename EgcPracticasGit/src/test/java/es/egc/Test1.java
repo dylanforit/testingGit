@@ -15,7 +15,7 @@ public class Test1
      *
      * @param testName name of the test case
      */
-    public Test1( String testName )
+    public TestConflictivodelamuerte( String testName )
     {
         super( testName );
     }
