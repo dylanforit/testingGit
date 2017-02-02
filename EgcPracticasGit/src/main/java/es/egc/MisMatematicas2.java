@@ -29,7 +29,7 @@ public class MisMatematicas2
 		return result;
 	}
 	
-	public static double resta2(double a, double b){
+	public static double resta3131312(double a, double b){
 		double result = a-b
 		log.info("Returning" +a+ "-" +b+"=" result);
 		return result;
