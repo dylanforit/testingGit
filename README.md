@@ -8,8 +8,8 @@ En este proyecto se hará lo siguiente:
 2. Conectar el proyecto al repositorio
 3. Crear una rama nueva
 4. Crear una clase nueva
-Crear una clase test nueva
-Unir las ramas
-Crear una rama conflictiva
-Solucionar el conflicto
-Unir las ramas
+5. Crear una clase test nueva
+6. Unir las ramas
+7. Crear una rama conflictiva
+8. Solucionar el conflicto
+9. Unir las ramas
